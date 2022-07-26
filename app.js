@@ -14,16 +14,25 @@ const ls = fs.readdirSync(dir, { withFileTypes: true })
 //     console.log(img, dimensions.width, dimensions.height)
 // }
 
-    const jsObj = ls.map(img => {
-        const path = join(dir, img);
-        const dimensions = sizeOf(path)
-        return {
-            path: img,
-            width: dimensions.width,
-            height: dimensions.height
-        }
-    })
-    console.log(JSON.stringify(jsObj,null,'\t'))
+const jsObj = ls.map(img => {
+    const path = join(dir, img);
+    const dimensions = sizeOf(path)
+    return {
+        path: img,
+        width: dimensions.width,
+        height: dimensions.height
+    }
+})
+
+let data = JSON.stringify(jsObj, null, '\t')
+console.log(JSON.stringify(jsObj, null, '\t'))
+
+fs.writeFile('output.txt', data, function (err) {
+  if (err) return console.log(err);
+  console.log('Hello World > output.txt');
+});
+console.log('done')
+
 
 
 

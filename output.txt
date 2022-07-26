@@ -1,0 +1,82 @@
+[
+	{
+		"path": "Dynamite_logo_colored_centered.webp",
+		"width": 959,
+		"height": 221
+	},
+	{
+		"path": "LGN-LOGO-RGB-DIGITAL.webp",
+		"width": 2481,
+		"height": 2481
+	},
+	{
+		"path": "Origame_compressed.webp",
+		"width": 528,
+		"height": 100
+	},
+	{
+		"path": "Qsn-web-logo-trans.webp",
+		"width": 342,
+		"height": 113
+	},
+	{
+		"path": "Redd+E.webp",
+		"width": 512,
+		"height": 171
+	},
+	{
+		"path": "abga.webp",
+		"width": 568,
+		"height": 134
+	},
+	{
+		"path": "avocado_guild_.webp",
+		"width": 3840,
+		"height": 1245
+	},
+	{
+		"path": "cargo_studio.webp",
+		"width": 600,
+		"height": 555
+	},
+	{
+		"path": "esports_insider.svg",
+		"width": 466,
+		"height": 154
+	},
+	{
+		"path": "flash.svg",
+		"width": 346,
+		"height": 233
+	},
+	{
+		"path": "gosug.svg",
+		"width": 435,
+		"height": 166
+	},
+	{
+		"path": "imba_logo.webp",
+		"width": 1155,
+		"height": 600
+	},
+	{
+		"path": "motgame_logo.webp",
+		"width": 500,
+		"height": 500
+	},
+	{
+		"path": "undercurrent.svg",
+		"width": 688,
+		"height": 142
+	},
+	{
+		"path": "ydm.svg",
+		"width": 307,
+		"height": 113
+	},
+	{
+		"path": "下載.svg",
+		"width": 528,
+		"height": 100
+	}
+]
